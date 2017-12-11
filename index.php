@@ -4,7 +4,7 @@
 		<title></title>
 	</head>
 <body>
-	<img src = "activity-diagram.xml"> 
+	<img src = "activity.png"> 
 </body>
 
 </html>
