@@ -4,7 +4,7 @@
 		<title></title>
 	</head>
 <body>
-	<img src = "activity.png"> 
+	<img src = "activityVersion2.png"> 
 </body>
 
 </html>
